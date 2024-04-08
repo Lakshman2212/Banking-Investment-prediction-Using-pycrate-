@@ -5,5 +5,7 @@ This project aims to predict investment opportunities in the banking sector usin
 
 ## Features
 -> Utilizes historical banking data for training and testing.
+
 -> Implements machine learning algorithms for predictive analysis.
+
 -> Offers insights into potential investment opportunities within the banking sector.
